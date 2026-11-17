@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-16T14:14:44+00:00",
+  "last_run": "2026-11-17T17:08:00+00:00",
   "wishlist": {
     "2784470": {
       "name": "9 Kings",
@@ -771,6 +771,11 @@
       "name": "Go Next!",
       "priority": 0,
       "date_added": 1794649511
+    },
+    "4128840": {
+      "name": "All Army Attack",
+      "priority": 0,
+      "date_added": 1794842073
     }
   },
   "reviews": {
@@ -779,6 +784,13 @@
         "date": "2026-11-16",
         "pct": 88,
         "count": 630,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": 87,
+        "count": 712,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -790,11 +802,25 @@
         "count": 4929,
         "label": "Overwhelmingly Positive",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": 96,
+        "count": 5173,
+        "label": "Overwhelmingly Positive",
+        "scope": "all"
       }
     ],
     "3078120": [
       {
         "date": "2026-11-16",
+        "pct": 100,
+        "count": 10,
+        "label": "Positive",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
         "pct": 100,
         "count": 10,
         "label": "Positive",
@@ -808,6 +834,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "1911610": [
@@ -815,6 +848,13 @@
         "date": "2026-11-16",
         "pct": 82,
         "count": 90,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": 82,
+        "count": 91,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -826,6 +866,13 @@
         "count": 213,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": 91,
+        "count": 202,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "2552310": [
@@ -833,6 +880,13 @@
         "date": "2026-11-16",
         "pct": 84,
         "count": 177,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": 84,
+        "count": 176,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -844,6 +898,13 @@
         "count": 95,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": 93,
+        "count": 91,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "4075620": [
@@ -851,6 +912,13 @@
         "date": "2026-11-16",
         "pct": 95,
         "count": 324,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": 95,
+        "count": 311,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
       }
@@ -862,6 +930,13 @@
         "count": 502,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": 92,
+        "count": 482,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "1913120": [
@@ -871,11 +946,25 @@
         "count": 78,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": 88,
+        "count": 75,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "2640090": [
       {
         "date": "2026-11-16",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -889,11 +978,25 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2769570": [
       {
         "date": "2026-11-16",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -907,11 +1010,25 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2210150": [
       {
         "date": "2026-11-16",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -925,11 +1042,25 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2487330": [
       {
         "date": "2026-11-16",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -943,11 +1074,25 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2156800": [
       {
         "date": "2026-11-16",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-17",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1241,11 +1386,6 @@
       "date": "To be announced",
       "since": "2026-11-16"
     },
-    "2022640": {
-      "name": "CALX",
-      "date": "Coming soon",
-      "since": "2026-11-16"
-    },
     "2322260": {
       "name": "Don't Kill Them All",
       "date": "Q4 2026",
@@ -1448,7 +1588,7 @@
     },
     "1037170": {
       "name": "Maximum Thunderness",
-      "date": "2026",
+      "date": "Coming soon",
       "since": "2026-11-16"
     },
     "3106270": {
@@ -1545,10 +1685,39 @@
       "name": "Athran",
       "date": "To be announced",
       "since": "2026-11-16"
+    },
+    "4128840": {
+      "name": "All Army Attack",
+      "date": "2027",
+      "since": "2026-11-17"
     }
   },
-  "alerts_sent": [],
-  "alert_log": [],
+  "alerts_sent": [
+    "release:1037170:Coming soon",
+    "release:2022640:Jan 21, 2027"
+  ],
+  "alert_log": [
+    {
+      "date": "2026-11-17",
+      "type": "release",
+      "appid": 1037170,
+      "name": "Maximum Thunderness",
+      "old": "2026",
+      "new": "Coming soon",
+      "firm": false,
+      "message": "Maximum Thunderness: release date '2026' → 'Coming soon'"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "release",
+      "appid": 2022640,
+      "name": "CALX",
+      "old": "Coming soon",
+      "new": "Jan 21, 2027",
+      "firm": true,
+      "message": "CALX: release date 'Coming soon' → 'Jan 21, 2027' (firm date)"
+    }
+  ],
   "news_seen": [
     "1784506359051629",
     "1784506359256199",
@@ -2445,6 +2614,7 @@
     "1848664643359078",
     "1848664643359315",
     "1848664643359968",
+    "1848664643360427",
     "1848664643361026",
     "1848664643361450",
     "1848664643361454",
@@ -2489,6 +2659,23 @@
     "1849458702687818",
     "1849458702688428",
     "1849458702688462",
+    "1849458702689542",
+    "1849458702689900",
+    "1849458702689978",
+    "1849458702690118",
+    "1849458702690809",
+    "1849458702691188",
+    "1849458702691596",
+    "1849458702691946",
+    "1849458702691949",
+    "1849458702691954",
+    "1849458702692451",
+    "1849458702692671",
+    "1849458702692802",
+    "1849458702693313",
+    "1849458702693814",
+    "1849458702694010",
+    "1849458702694551",
     "2436926440577560177",
     "5059268543351284637",
     "5129083846350964831",
