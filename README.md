@@ -2,7 +2,7 @@
 
 A daily GitHub Actions job that watches one Steam wishlist (`76561198126128927`) and publishes a page to GitHub Pages.
 
-Every day at 08:30 São Paulo time (`30 11 * * *` UTC), `tracker.py`:
+Every morning, `tracker.py` runs once per São Paulo day. GitHub drops or delays scheduled runs, so the workflow is scheduled four times (`17 8`, `47 9`, `17 11` and `47 12` UTC, about 05:17, 06:47, 08:17 and 09:47 in São Paulo); the first run that finds `today.json` older than today does the crawl, and later runs exit early. Each run:
 
 - fetches the wishlist and sorts it by priority ascending (the top 20 are the first 20);
 - pulls store details, the last 10 community announcements, and, for the top 20, the **Recent Reviews** score scraped from the store page;

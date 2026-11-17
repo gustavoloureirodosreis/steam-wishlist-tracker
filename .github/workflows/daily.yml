@@ -1,8 +1,14 @@
 name: Daily wishlist check
 
+# GitHub drops or delays scheduled runs, so the job is scheduled four times each morning.
+# The first run that finds today.json older than today (America/Sao_Paulo) does the work;
+# later runs see today's date and exit early.
 on:
   schedule:
-    - cron: "30 11 * * *"   # 08:30 America/Sao_Paulo
+    - cron: "17 8 * * *"    # 05:17 America/Sao_Paulo
+    - cron: "47 9 * * *"    # 06:47
+    - cron: "17 11 * * *"   # 08:17
+    - cron: "47 12 * * *"   # 09:47
   workflow_dispatch:
 
 permissions:
@@ -19,22 +25,47 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Skip if today's crawl is already committed
+        id: check
+        run: |
+          today=$(TZ=America/Sao_Paulo date +%F)
+          last=$(jq -r '.date // empty' today.json 2>/dev/null || true)
+          echo "Today (Sao Paulo): $today, today.json date: ${last:-none}"
+          if [ "$last" = "$today" ]; then
+            echo "Already done today; skipping the crawl and commit."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v5
+        if: steps.check.outputs.skip != 'true'
         with:
           python-version: "3.12"
 
       - name: Run tracker
+        if: steps.check.outputs.skip != 'true'
         run: python tracker.py
 
       - name: Commit results
+        if: steps.check.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add state.json today.json docs/
           if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "Daily wishlist update $(date -u +%Y-%m-%d)"
-            git pull --rebase
-            git push
+            exit 0
           fi
+          git commit -m "Daily wishlist update $(TZ=America/Sao_Paulo date +%F)"
+          for attempt in 1 2 3; do
+            if git pull --rebase && git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; retrying."
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 10))
+          done
+          echo "::error::Could not push after 3 attempts."
+          exit 1
