@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-19T17:23:04+00:00",
+  "last_run": "2026-11-20T16:57:56+00:00",
   "wishlist": {
     "2784470": {
       "name": "9 Kings",
@@ -781,6 +781,11 @@
       "name": "TANUKI: Pon's Summer",
       "priority": 0,
       "date_added": 1795001528
+    },
+    "3367950": {
+      "name": "Five More Minutes",
+      "priority": 0,
+      "date_added": 1795120440
     }
   },
   "reviews": {
@@ -810,6 +815,13 @@
         "date": "2026-11-19",
         "pct": 87,
         "count": 812,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": 87,
+        "count": 848,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -842,6 +854,13 @@
         "count": 5548,
         "label": "Overwhelmingly Positive",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": 96,
+        "count": 5729,
+        "label": "Overwhelmingly Positive",
+        "scope": "all"
       }
     ],
     "3078120": [
@@ -868,6 +887,13 @@
       },
       {
         "date": "2026-11-19",
+        "pct": 100,
+        "count": 12,
+        "label": "Positive",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
         "pct": 100,
         "count": 12,
         "label": "Positive",
@@ -902,6 +928,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "1911610": [
@@ -930,6 +963,13 @@
         "date": "2026-11-19",
         "pct": 84,
         "count": 88,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": 84,
+        "count": 85,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -962,6 +1002,13 @@
         "count": 202,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": 92,
+        "count": 200,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "2552310": [
@@ -988,6 +1035,13 @@
       },
       {
         "date": "2026-11-19",
+        "pct": 84,
+        "count": 175,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-20",
         "pct": 84,
         "count": 175,
         "label": "Very Positive",
@@ -1022,6 +1076,13 @@
         "count": 84,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": 93,
+        "count": 80,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "4075620": [
@@ -1050,6 +1111,13 @@
         "date": "2026-11-19",
         "pct": 95,
         "count": 281,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": 95,
+        "count": 270,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
       }
@@ -1082,6 +1150,13 @@
         "count": 424,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": 91,
+        "count": 398,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "1913120": [
@@ -1112,6 +1187,13 @@
         "count": 69,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": 88,
+        "count": 67,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "2640090": [
@@ -1138,6 +1220,13 @@
       },
       {
         "date": "2026-11-19",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1172,6 +1261,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2769570": [
@@ -1198,6 +1294,13 @@
       },
       {
         "date": "2026-11-19",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1232,6 +1335,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2210150": [
@@ -1258,6 +1368,13 @@
       },
       {
         "date": "2026-11-19",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1292,6 +1409,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2487330": [
@@ -1318,6 +1442,13 @@
       },
       {
         "date": "2026-11-19",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1352,6 +1483,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2156800": [
@@ -1378,6 +1516,13 @@
       },
       {
         "date": "2026-11-19",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-20",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1975,6 +2120,11 @@
       "name": "All Army Attack",
       "date": "2027",
       "since": "2026-11-17"
+    },
+    "3367950": {
+      "name": "Five More Minutes",
+      "date": "Q1 2027",
+      "since": "2026-11-20"
     }
   },
   "alerts_sent": [
@@ -2114,6 +2264,7 @@
     "1813674388979022",
     "1813674389040120",
     "1813674389040604",
+    "1813674389112238",
     "1814309641405810",
     "1814309641416507",
     "1814309641457448",
@@ -2130,6 +2281,7 @@
     "1815580768398415",
     "1815580768399858",
     "1815580768426493",
+    "1816215235359785",
     "1816307528965676",
     "1816307528966705",
     "1816307528974629",
@@ -2265,6 +2417,7 @@
     "1831432155568876",
     "1831432155571159",
     "1831432155572280",
+    "1831432155577411",
     "1831432155578307",
     "1831432155578513",
     "1832065502813078",
@@ -3000,6 +3153,19 @@
     "1849827110428865",
     "1849827110428960",
     "1849827110429019",
+    "1849827110429281",
+    "1849827110429339",
+    "1849827110429502",
+    "1849827110429708",
+    "1849827110430310",
+    "1849827110430700",
+    "1849827110431540",
+    "1849827110431722",
+    "1849827110431971",
+    "1849827110432372",
+    "1849827110432577",
+    "1849827110432644",
+    "1849827110432647",
     "2436926440577560177",
     "5059268543351284637",
     "5129083846350964831",
