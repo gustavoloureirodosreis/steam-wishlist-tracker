@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-20T16:57:56+00:00",
+  "last_run": "2026-11-21T16:09:51+00:00",
   "wishlist": {
     "2784470": {
       "name": "9 Kings",
@@ -824,6 +824,13 @@
         "count": 848,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": 87,
+        "count": 894,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "1799840": [
@@ -861,6 +868,13 @@
         "count": 5729,
         "label": "Overwhelmingly Positive",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": 96,
+        "count": 5909,
+        "label": "Overwhelmingly Positive",
+        "scope": "all"
       }
     ],
     "3078120": [
@@ -894,6 +908,13 @@
       },
       {
         "date": "2026-11-20",
+        "pct": 100,
+        "count": 12,
+        "label": "Positive",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
         "pct": 100,
         "count": 12,
         "label": "Positive",
@@ -935,6 +956,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "1911610": [
@@ -970,6 +998,13 @@
         "date": "2026-11-20",
         "pct": 84,
         "count": 85,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": 84,
+        "count": 86,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1009,6 +1044,13 @@
         "count": 200,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": 93,
+        "count": 205,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "2552310": [
@@ -1046,6 +1088,13 @@
         "count": 175,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": 84,
+        "count": 174,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "3088700": [
@@ -1080,6 +1129,13 @@
       {
         "date": "2026-11-20",
         "pct": 93,
+        "count": 80,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": 92,
         "count": 80,
         "label": "Very Positive",
         "scope": "recent"
@@ -1120,6 +1176,13 @@
         "count": 270,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": 96,
+        "count": 259,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "4113940": [
@@ -1155,6 +1218,13 @@
         "date": "2026-11-20",
         "pct": 91,
         "count": 398,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": 92,
+        "count": 389,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1194,6 +1264,13 @@
         "count": 67,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": 88,
+        "count": 62,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "2640090": [
@@ -1227,6 +1304,13 @@
       },
       {
         "date": "2026-11-20",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1268,6 +1352,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2769570": [
@@ -1301,6 +1392,13 @@
       },
       {
         "date": "2026-11-20",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1342,6 +1440,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2210150": [
@@ -1375,6 +1480,13 @@
       },
       {
         "date": "2026-11-20",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1416,6 +1528,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2487330": [
@@ -1449,6 +1568,13 @@
       },
       {
         "date": "2026-11-20",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1490,6 +1616,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2156800": [
@@ -1523,6 +1656,13 @@
       },
       {
         "date": "2026-11-20",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-21",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -3166,6 +3306,10 @@
     "1849827110432577",
     "1849827110432644",
     "1849827110432647",
+    "1849827110433844",
+    "1849827110434263",
+    "1849827110434719",
+    "1849827110434721",
     "2436926440577560177",
     "5059268543351284637",
     "5129083846350964831",

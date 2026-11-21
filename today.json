@@ -1,119 +1,78 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T16:57:56+00:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T16:09:51+00:00",
   "baseline": false,
   "controller_alerts": [],
   "release_date_changes": [],
   "new_announcements": [
     {
-      "title": "DevLog #11: The Grim Personalities of GrimKeep",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432647",
-      "date": "2026-11-20T15:23:27+00:00",
-      "appid": 3509380,
-      "name": "GrimKeep"
+      "title": "New Character \"Habena Belua\" Is Now LIVE!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434721",
+      "date": "2026-11-21T06:17:56+00:00",
+      "appid": 2483700,
+      "name": "HARMA"
     },
     {
-      "title": "SPINE Development Blog: Customization",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432644",
-      "date": "2026-11-20T15:22:59+00:00",
-      "appid": 1731290,
-      "name": "SPINE - This is Gun Fu"
+      "title": "Early Access Update 0.7.1",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434719",
+      "date": "2026-11-21T06:17:38+00:00",
+      "appid": 2483700,
+      "name": "HARMA"
     },
     {
-      "title": "Updates notes for November 20th",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432577",
-      "date": "2026-11-20T15:06:32+00:00",
+      "title": "Updates notes for November 21",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434263",
+      "date": "2026-11-21T01:22:38+00:00",
       "appid": 499170,
       "name": "Order of the Sinking Star"
     },
     {
-      "title": "Dev Diary #1: Enemies Design in Volatiles",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432372",
-      "date": "2026-11-20T14:19:30+00:00",
-      "appid": 4210390,
-      "name": "Volatiles"
-    },
-    {
-      "title": "The Demo's Grand Finale! (0.89)",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110431971",
-      "date": "2026-11-20T12:13:52+00:00",
-      "appid": 3991790,
-      "name": "Attack of the Astrals"
-    },
-    {
-      "title": "Dev Diary #7 - Haven (Hub Area)",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110431722",
-      "date": "2026-11-20T10:48:41+00:00",
-      "appid": 2584400,
-      "name": "Beaten Path"
-    },
-    {
-      "title": "SlashZero Closed Beta Test Recruitment Is Now Open!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110431540",
-      "date": "2026-11-20T10:00:41+00:00",
-      "appid": 4061170,
-      "name": "SlashZero"
-    },
-    {
-      "title": "Enter the Chronosphere 0.148.20",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110430700",
-      "date": "2026-11-20T03:29:57+00:00",
-      "appid": 1969810,
-      "name": "Enter the Chronosphere"
-    },
-    {
-      "title": "Patch notes, November 20",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110430310",
-      "date": "2026-11-20T00:16:20+00:00",
-      "appid": 5064170,
-      "name": "Go Next!"
-    },
-    {
-      "title": "Patch 1.0.59D - Report a bug button bug fix and more",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110429708",
-      "date": "2026-11-19T19:40:50+00:00",
-      "appid": 4618570,
-      "name": "Booster Pack Heroes"
-    },
-    {
-      "title": "Multiplayer hotfixes + Minor bug fixes",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110429502",
-      "date": "2026-11-19T18:35:30+00:00",
+      "title": "🔧 Allies / Ravager / Soulbinder Update - v.0.24.62550 [Experimental]",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433844",
+      "date": "2026-11-20T21:55:22+00:00",
       "appid": 1913120,
       "name": "Tears of Metal"
-    },
-    {
-      "title": "Update Notes for November 19",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110429339",
-      "date": "2026-11-19T17:44:58+00:00",
-      "appid": 499170,
-      "name": "Order of the Sinking Star"
-    },
-    {
-      "title": "Erosion Playtest Extended",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110429281",
-      "date": "2026-11-19T17:29:05+00:00",
-      "appid": 3211720,
-      "name": "Erosion"
     }
   ],
   "review_changes": [
     {
-      "appid": 3088700,
-      "name": "Driving Rogue",
+      "appid": 3156770,
+      "name": "Witchfire",
       "old_pct": 92,
       "new_pct": 93,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-19"
-    }
-  ],
-  "wishlist_added": [
+      "since": "2026-11-20"
+    },
     {
-      "appid": 3367950,
-      "name": "Five More Minutes"
+      "appid": 3088700,
+      "name": "Driving Rogue",
+      "old_pct": 93,
+      "new_pct": 92,
+      "old_label": "Very Positive",
+      "new_label": "Very Positive",
+      "since": "2026-11-20"
+    },
+    {
+      "appid": 4075620,
+      "name": "Combolands: Roguelike Citybuilder",
+      "old_pct": 95,
+      "new_pct": 96,
+      "old_label": "Overwhelmingly Positive",
+      "new_label": "Overwhelmingly Positive",
+      "since": "2026-11-20"
+    },
+    {
+      "appid": 4113940,
+      "name": "Sovereign Tower",
+      "old_pct": 91,
+      "new_pct": 92,
+      "old_label": "Very Positive",
+      "new_label": "Very Positive",
+      "since": "2026-11-20"
     }
   ],
+  "wishlist_added": [],
   "wishlist_removed": [],
   "fetch_failures": []
 }
