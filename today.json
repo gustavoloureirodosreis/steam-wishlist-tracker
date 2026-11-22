@@ -1,75 +1,57 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T16:09:51+00:00",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T16:17:14+00:00",
   "baseline": false,
   "controller_alerts": [],
   "release_date_changes": [],
   "new_announcements": [
     {
-      "title": "New Character \"Habena Belua\" Is Now LIVE!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434721",
-      "date": "2026-11-21T06:17:56+00:00",
-      "appid": 2483700,
-      "name": "HARMA"
+      "title": "Patch notes, November 22",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110438855",
+      "date": "2026-11-22T16:15:00+00:00",
+      "appid": 5064170,
+      "name": "Go Next!"
     },
     {
-      "title": "Early Access Update 0.7.1",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434719",
-      "date": "2026-11-21T06:17:38+00:00",
-      "appid": 2483700,
-      "name": "HARMA"
+      "title": "Enter the Chronosphere 0.148.21",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110437961",
+      "date": "2026-11-22T08:42:35+00:00",
+      "appid": 1969810,
+      "name": "Enter the Chronosphere"
     },
     {
-      "title": "Updates notes for November 21",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434263",
-      "date": "2026-11-21T01:22:38+00:00",
-      "appid": 499170,
-      "name": "Order of the Sinking Star"
+      "title": "Patch notes, November 21",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110437096",
+      "date": "2026-11-21T23:12:34+00:00",
+      "appid": 5064170,
+      "name": "Go Next!"
     },
     {
-      "title": "🔧 Allies / Ravager / Soulbinder Update - v.0.24.62550 [Experimental]",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433844",
-      "date": "2026-11-20T21:55:22+00:00",
-      "appid": 1913120,
-      "name": "Tears of Metal"
+      "title": "Game Update! (v1.1.0)",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110436218",
+      "date": "2026-11-21T17:07:32+00:00",
+      "appid": 2459550,
+      "name": "Emberward"
     }
   ],
   "review_changes": [
     {
-      "appid": 3156770,
-      "name": "Witchfire",
-      "old_pct": 92,
-      "new_pct": 93,
+      "appid": 2784470,
+      "name": "9 Kings",
+      "old_pct": 87,
+      "new_pct": 86,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-20"
+      "since": "2026-11-21"
     },
     {
-      "appid": 3088700,
-      "name": "Driving Rogue",
-      "old_pct": 93,
-      "new_pct": 92,
+      "appid": 1911610,
+      "name": "Windblown",
+      "old_pct": 84,
+      "new_pct": 85,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-20"
-    },
-    {
-      "appid": 4075620,
-      "name": "Combolands: Roguelike Citybuilder",
-      "old_pct": 95,
-      "new_pct": 96,
-      "old_label": "Overwhelmingly Positive",
-      "new_label": "Overwhelmingly Positive",
-      "since": "2026-11-20"
-    },
-    {
-      "appid": 4113940,
-      "name": "Sovereign Tower",
-      "old_pct": 91,
-      "new_pct": 92,
-      "old_label": "Very Positive",
-      "new_label": "Very Positive",
-      "since": "2026-11-20"
+      "since": "2026-11-21"
     }
   ],
   "wishlist_added": [],
