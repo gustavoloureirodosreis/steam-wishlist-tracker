@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-22T16:17:14+00:00",
+  "last_run": "2026-11-23T20:14:28+00:00",
   "wishlist": {
     "2784470": {
       "name": "9 Kings",
@@ -363,7 +363,7 @@
       "date_added": 1773525178
     },
     "2322260": {
-      "name": "Don't Kill Them All",
+      "name": "Don't Kill Them All - Orc Slay Prevention Sim",
       "priority": 73,
       "date_added": 1737927872
     },
@@ -786,6 +786,11 @@
       "name": "Five More Minutes",
       "priority": 0,
       "date_added": 1795120440
+    },
+    "3714280": {
+      "name": "FLASK",
+      "priority": 0,
+      "date_added": 1795381217
     }
   },
   "reviews": {
@@ -836,6 +841,13 @@
         "date": "2026-11-22",
         "pct": 86,
         "count": 935,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": 87,
+        "count": 1062,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -889,6 +901,13 @@
         "count": 6138,
         "label": "Overwhelmingly Positive",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": 96,
+        "count": 6495,
+        "label": "Overwhelmingly Positive",
+        "scope": "all"
       }
     ],
     "3078120": [
@@ -940,6 +959,13 @@
         "count": 13,
         "label": "Positive",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": 93,
+        "count": 15,
+        "label": "Positive",
+        "scope": "all"
       }
     ],
     "3991790": [
@@ -987,6 +1013,13 @@
       },
       {
         "date": "2026-11-22",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1042,6 +1075,13 @@
         "count": 87,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": 87,
+        "count": 86,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "3156770": [
@@ -1091,6 +1131,13 @@
         "date": "2026-11-22",
         "pct": 93,
         "count": 213,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": 92,
+        "count": 232,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1144,6 +1191,13 @@
         "count": 175,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": 87,
+        "count": 154,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "3088700": [
@@ -1193,6 +1247,13 @@
         "date": "2026-11-22",
         "pct": 92,
         "count": 79,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": 92,
+        "count": 77,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1246,6 +1307,13 @@
         "count": 245,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": 96,
+        "count": 235,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "4113940": [
@@ -1295,6 +1363,13 @@
         "date": "2026-11-22",
         "pct": 92,
         "count": 388,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": 92,
+        "count": 408,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1348,6 +1423,13 @@
         "count": 60,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": 88,
+        "count": 63,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "2640090": [
@@ -1395,6 +1477,13 @@
       },
       {
         "date": "2026-11-22",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1450,6 +1539,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2769570": [
@@ -1497,6 +1593,13 @@
       },
       {
         "date": "2026-11-22",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1552,6 +1655,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2210150": [
@@ -1599,6 +1709,13 @@
       },
       {
         "date": "2026-11-22",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1654,6 +1771,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2487330": [
@@ -1701,6 +1825,13 @@
       },
       {
         "date": "2026-11-22",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1756,6 +1887,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2156800": [
@@ -1807,6 +1945,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ]
   },
@@ -1852,7 +1997,7 @@
       "since": "2026-11-16"
     },
     "2322260": {
-      "name": "Don't Kill Them All",
+      "name": "Don't Kill Them All - Orc Slay Prevention Sim",
       "since": "2026-11-16"
     },
     "2719590": {
@@ -2097,7 +2242,7 @@
       "since": "2026-11-16"
     },
     "2322260": {
-      "name": "Don't Kill Them All",
+      "name": "Don't Kill Them All - Orc Slay Prevention Sim",
       "date": "2027",
       "since": "2026-11-16"
     },
@@ -2887,6 +3032,7 @@
     "1838407329257545",
     "1838407329258202",
     "1838407329259479",
+    "1838407329260715",
     "1838407329260751",
     "1838407329263558",
     "1838407329265286",
@@ -3095,6 +3241,7 @@
     "1844751498233515",
     "1844751498234332",
     "1844751498234791",
+    "1844751498234841",
     "1844751498234950",
     "1844751498235143",
     "1845383656376505",
@@ -3148,6 +3295,7 @@
     "1846018067931211",
     "1846018067931289",
     "1846018067932181",
+    "1846018067933390",
     "1846018067933444",
     "1846018067933481",
     "1846018067933569",
@@ -3179,6 +3327,7 @@
     "1846651706682358",
     "1846651706682729",
     "1846651706683084",
+    "1846651706683108",
     "1846651706683293",
     "1846651706683691",
     "1846651706684401",
@@ -3208,6 +3357,7 @@
     "1846651706694730",
     "1846651706695857",
     "1846651706696491",
+    "1846651706696760",
     "1847286114027189",
     "1847286114029005",
     "1847286114029260",
@@ -3280,6 +3430,7 @@
     "1847920302235340",
     "1847920302236082",
     "1847920302236283",
+    "1847920302236372",
     "1847920302237001",
     "1847920302237605",
     "1847920302238281",
@@ -3334,6 +3485,7 @@
     "1848664643346998",
     "1848664643347328",
     "1848664643347521",
+    "1848664643347538",
     "1848664643347661",
     "1848664643347686",
     "1848664643351150",
@@ -3404,6 +3556,7 @@
     "1849458702690118",
     "1849458702690809",
     "1849458702691188",
+    "1849458702691357",
     "1849458702691596",
     "1849458702691946",
     "1849458702691949",
@@ -3454,6 +3607,23 @@
     "1849827110437096",
     "1849827110437961",
     "1849827110438855",
+    "1849827110438947",
+    "1849827110439442",
+    "1849827110440848",
+    "1849827110441107",
+    "1849827110441876",
+    "1849827110441881",
+    "1849827110442640",
+    "1849827110442706",
+    "1849827110442857",
+    "1849827110442885",
+    "1849827110442888",
+    "1849827110443024",
+    "1849827110443043",
+    "1849827110443125",
+    "1849827110443159",
+    "1849827110443354",
+    "1849827110443393",
     "2436926440577560177",
     "5059268543351284637",
     "5129083846350964831",
