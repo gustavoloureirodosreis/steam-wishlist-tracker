@@ -1,183 +1,155 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T20:14:28+00:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:30:34+00:00",
   "baseline": false,
   "controller_alerts": [],
-  "release_date_changes": [],
+  "release_date_changes": [
+    {
+      "appid": 3015820,
+      "name": "To Kill a God",
+      "old": "Coming soon",
+      "new": "Jan 12, 2027",
+      "firm": true,
+      "message": "To Kill a God: release date 'Coming soon' → 'Jan 12, 2027' (firm date)"
+    }
+  ],
   "new_announcements": [
     {
-      "title": "Just Five More Minutes - Vote for us in the Steam Awards 2026!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443393",
-      "date": "2026-11-23T19:00:50+00:00",
-      "appid": 2615540,
-      "name": "VOID/BREAKER"
+      "title": "Early Access Launch Date - January 12!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110446503",
+      "date": "2026-11-24T15:01:10+00:00",
+      "appid": 3015820,
+      "name": "To Kill a God"
     },
     {
-      "title": "Clocking in to the Steam Awards: Vote Probably Stolen for “This Is My Job Now\"",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443354",
-      "date": "2026-11-23T18:47:46+00:00",
-      "appid": 4348910,
-      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim"
+      "title": "Final reveal before release: Revenge, Mark, and The Host",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110446187",
+      "date": "2026-11-24T13:30:47+00:00",
+      "appid": 3991790,
+      "name": "Attack of the Astrals"
     },
     {
-      "title": "Thanks for Playtesting!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443159",
-      "date": "2026-11-23T18:14:03+00:00",
-      "appid": 3211720,
-      "name": "Erosion"
+      "title": "Steam Awards 2026!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110446029",
+      "date": "2026-11-24T12:48:37+00:00",
+      "appid": 3617620,
+      "name": "My Card Is Better Than Your Card!"
     },
     {
-      "title": "Nominate Die in the Dungeon for Steam Awards 2026!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443125",
-      "date": "2026-11-23T18:07:50+00:00",
-      "appid": 2026820,
-      "name": "Die in the Dungeon"
+      "title": "Cozy Parties Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110446004",
+      "date": "2026-11-24T12:39:05+00:00",
+      "appid": 3106270,
+      "name": "HELLCARD II"
     },
     {
-      "title": "Nominate us for the Steam Awards!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443043",
-      "date": "2026-11-23T18:01:41+00:00",
-      "appid": 499170,
-      "name": "Order of the Sinking Star"
+      "title": "Nominate Rubinite for \"Best Game You Suck At\" at the 2026 Steam Awards!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110444627",
+      "date": "2026-11-24T03:07:37+00:00",
+      "appid": 1845250,
+      "name": "Rubinite"
     },
     {
-      "title": "Nominate 9 Kings for The Steam Awards!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443024",
-      "date": "2026-11-23T18:01:39+00:00",
-      "appid": 2784470,
-      "name": "9 Kings"
-    },
-    {
-      "title": "The Steam Awards voting is now open!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442888",
-      "date": "2026-11-23T18:01:19+00:00",
-      "appid": 1799840,
-      "name": "Queen's Domain"
-    },
-    {
-      "title": "Nominate Chivalware at the Steam Awards!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442885",
-      "date": "2026-11-23T18:01:19+00:00",
-      "appid": 3591900,
-      "name": "Chivalware"
-    },
-    {
-      "title": "Nominate Tears of Metal for Outstanding Visual Artstyle. 🎨💚",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442857",
-      "date": "2026-11-23T18:01:15+00:00",
-      "appid": 1913120,
-      "name": "Tears of Metal"
-    },
-    {
-      "title": "Vote for Sovereign Tower in “Outstanding Visual Style”",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442706",
-      "date": "2026-11-23T18:00:54+00:00",
-      "appid": 4113940,
-      "name": "Sovereign Tower"
-    },
-    {
-      "title": "Nominate Wanderburg for the Steam Awards 2026!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442640",
-      "date": "2026-11-23T18:00:44+00:00",
-      "appid": 3624140,
-      "name": "Wanderburg"
-    },
-    {
-      "title": "300,000 copies sold in 3 weeks!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110441881",
-      "date": "2026-11-23T14:29:25+00:00",
-      "appid": 1799840,
-      "name": "Queen's Domain"
-    },
-    {
-      "title": "Variety Patch - Boggles and Toggles",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110441876",
-      "date": "2026-11-23T14:26:05+00:00",
-      "appid": 3858030,
-      "name": "Immortal Coil"
-    },
-    {
-      "title": "Release (1.0.3.0f1bbf6bb7x00) - Nov 23, 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110441107",
-      "date": "2026-11-23T10:05:48+00:00",
-      "appid": 3218570,
-      "name": "TANUKI: Pon's Summer"
-    },
-    {
-      "title": "Playtest Has Ended — Thank You!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440848",
-      "date": "2026-11-23T08:20:38+00:00",
-      "appid": 4687860,
-      "name": "Guns and Dragons"
-    },
-    {
-      "title": "Go Next: everything new since launch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110439442",
-      "date": "2026-11-22T19:59:54+00:00",
-      "appid": 5064170,
-      "name": "Go Next!"
-    },
-    {
-      "title": "Update notes for 1.0.8",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110438947",
-      "date": "2026-11-22T16:57:04+00:00",
-      "appid": 3078120,
-      "name": "Reality Drift"
+      "title": "Steam Award Nominations for Onimusha: Way of the Sword",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110444597",
+      "date": "2026-11-24T03:00:33+00:00",
+      "appid": 2638890,
+      "name": "Onimusha: Way of the Sword"
     }
   ],
   "review_changes": [
     {
       "appid": 2784470,
       "name": "9 Kings",
-      "old_pct": 86,
-      "new_pct": 87,
+      "old_pct": 87,
+      "new_pct": 92,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-22"
+      "since": "2026-11-23"
     },
     {
-      "appid": 3078120,
-      "name": "Reality Drift",
-      "old_pct": 100,
-      "new_pct": 93,
-      "old_label": "Positive",
-      "new_label": "Positive",
-      "since": "2026-11-22"
+      "appid": 1799840,
+      "name": "Queen's Domain",
+      "old_pct": 96,
+      "new_pct": 97,
+      "old_label": "Overwhelmingly Positive",
+      "new_label": "Overwhelmingly Positive",
+      "since": "2026-11-23"
     },
     {
       "appid": 1911610,
       "name": "Windblown",
-      "old_pct": 85,
-      "new_pct": 87,
+      "old_pct": 87,
+      "new_pct": 89,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-22"
+      "since": "2026-11-23"
     },
     {
       "appid": 3156770,
       "name": "Witchfire",
-      "old_pct": 93,
-      "new_pct": 92,
+      "old_pct": 92,
+      "new_pct": 93,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-22"
+      "since": "2026-11-23"
     },
     {
       "appid": 2552310,
       "name": "Dungeon Inn",
-      "old_pct": 84,
-      "new_pct": 87,
+      "old_pct": 87,
+      "new_pct": 88,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-22"
-    }
-  ],
-  "wishlist_added": [
+      "since": "2026-11-23"
+    },
     {
-      "appid": 3714280,
-      "name": "FLASK"
+      "appid": 3088700,
+      "name": "Driving Rogue",
+      "old_pct": 92,
+      "new_pct": 93,
+      "old_label": "Very Positive",
+      "new_label": "Very Positive",
+      "since": "2026-11-23"
+    },
+    {
+      "appid": 4075620,
+      "name": "Combolands: Roguelike Citybuilder",
+      "old_pct": 96,
+      "new_pct": 97,
+      "old_label": "Overwhelmingly Positive",
+      "new_label": "Overwhelmingly Positive",
+      "since": "2026-11-23"
+    },
+    {
+      "appid": 4113940,
+      "name": "Sovereign Tower",
+      "old_pct": 92,
+      "new_pct": 95,
+      "old_label": "Very Positive",
+      "new_label": "Overwhelmingly Positive",
+      "since": "2026-11-23"
+    },
+    {
+      "appid": 1913120,
+      "name": "Tears of Metal",
+      "old_pct": 88,
+      "new_pct": 94,
+      "old_label": "Very Positive",
+      "new_label": "Very Positive",
+      "since": "2026-11-23"
     }
   ],
-  "wishlist_removed": [],
+  "wishlist_added": [],
+  "wishlist_removed": [
+    {
+      "appid": 3078120,
+      "name": "Reality Drift"
+    },
+    {
+      "appid": 3551820,
+      "name": "Castlebound"
+    }
+  ],
   "fetch_failures": []
 }

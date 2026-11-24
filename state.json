@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-23T20:14:28+00:00",
+  "last_run": "2026-11-24T19:30:34+00:00",
   "wishlist": {
     "2784470": {
       "name": "9 Kings",
@@ -11,11 +11,6 @@
       "name": "Queen's Domain",
       "priority": 2,
       "date_added": 1793542140
-    },
-    "3078120": {
-      "name": "Reality Drift",
-      "priority": 3,
-      "date_added": 1793541904
     },
     "3991790": {
       "name": "Attack of the Astrals",
@@ -752,11 +747,6 @@
       "priority": 0,
       "date_added": 1793711998
     },
-    "3551820": {
-      "name": "Castlebound",
-      "priority": 0,
-      "date_added": 1794430861
-    },
     "5509160": {
       "name": "Athran",
       "priority": 0,
@@ -850,6 +840,13 @@
         "count": 1062,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": 92,
+        "count": 1862,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "1799840": [
@@ -908,63 +905,12 @@
         "count": 6495,
         "label": "Overwhelmingly Positive",
         "scope": "all"
-      }
-    ],
-    "3078120": [
-      {
-        "date": "2026-11-16",
-        "pct": 100,
-        "count": 10,
-        "label": "Positive",
-        "scope": "all"
       },
       {
-        "date": "2026-11-17",
-        "pct": 100,
-        "count": 10,
-        "label": "Positive",
-        "scope": "all"
-      },
-      {
-        "date": "2026-11-18",
-        "pct": 100,
-        "count": 12,
-        "label": "Positive",
-        "scope": "all"
-      },
-      {
-        "date": "2026-11-19",
-        "pct": 100,
-        "count": 12,
-        "label": "Positive",
-        "scope": "all"
-      },
-      {
-        "date": "2026-11-20",
-        "pct": 100,
-        "count": 12,
-        "label": "Positive",
-        "scope": "all"
-      },
-      {
-        "date": "2026-11-21",
-        "pct": 100,
-        "count": 12,
-        "label": "Positive",
-        "scope": "all"
-      },
-      {
-        "date": "2026-11-22",
-        "pct": 100,
-        "count": 13,
-        "label": "Positive",
-        "scope": "all"
-      },
-      {
-        "date": "2026-11-23",
-        "pct": 93,
-        "count": 15,
-        "label": "Positive",
+        "date": "2026-11-24",
+        "pct": 97,
+        "count": 7647,
+        "label": "Overwhelmingly Positive",
         "scope": "all"
       }
     ],
@@ -1020,6 +966,13 @@
       },
       {
         "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-24",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1082,6 +1035,13 @@
         "count": 86,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": 89,
+        "count": 92,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "3156770": [
@@ -1138,6 +1098,13 @@
         "date": "2026-11-23",
         "pct": 92,
         "count": 232,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": 93,
+        "count": 263,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1198,6 +1165,13 @@
         "count": 154,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": 88,
+        "count": 136,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "3088700": [
@@ -1254,6 +1228,13 @@
         "date": "2026-11-23",
         "pct": 92,
         "count": 77,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": 93,
+        "count": 88,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1314,6 +1295,13 @@
         "count": 235,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": 97,
+        "count": 294,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "4113940": [
@@ -1371,6 +1359,13 @@
         "pct": 92,
         "count": 408,
         "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": 95,
+        "count": 649,
+        "label": "Overwhelmingly Positive",
         "scope": "recent"
       }
     ],
@@ -1430,6 +1425,13 @@
         "count": 63,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": 94,
+        "count": 136,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "2640090": [
@@ -1484,6 +1486,13 @@
       },
       {
         "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-24",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1546,6 +1555,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2769570": [
@@ -1600,6 +1616,13 @@
       },
       {
         "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-24",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1662,6 +1685,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2210150": [
@@ -1716,6 +1746,13 @@
       },
       {
         "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-24",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1778,6 +1815,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2487330": [
@@ -1832,6 +1876,13 @@
       },
       {
         "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-24",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1894,6 +1945,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2156800": [
@@ -1948,6 +2006,22 @@
       },
       {
         "date": "2026-11-23",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      }
+    ],
+    "3484950": [
+      {
+        "date": "2026-11-24",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -2219,11 +2293,6 @@
     "1363940": {
       "name": "Tenjutsu",
       "date": "To be announced",
-      "since": "2026-11-16"
-    },
-    "3015820": {
-      "name": "To Kill a God",
-      "date": "Coming soon",
       "since": "2026-11-16"
     },
     "3258580": {
@@ -2555,9 +2624,20 @@
   "alerts_sent": [
     "release:1037170:Coming soon",
     "release:2022640:Jan 21, 2027",
-    "release:2322260:2027"
+    "release:2322260:2027",
+    "release:3015820:Jan 12, 2027"
   ],
   "alert_log": [
+    {
+      "date": "2026-11-24",
+      "type": "release",
+      "appid": 3015820,
+      "name": "To Kill a God",
+      "old": "Coming soon",
+      "new": "Jan 12, 2027",
+      "firm": true,
+      "message": "To Kill a God: release date 'Coming soon' → 'Jan 12, 2027' (firm date)"
+    },
     {
       "date": "2026-11-18",
       "type": "release",
@@ -3624,6 +3704,12 @@
     "1849827110443159",
     "1849827110443354",
     "1849827110443393",
+    "1849827110444597",
+    "1849827110444627",
+    "1849827110446004",
+    "1849827110446029",
+    "1849827110446187",
+    "1849827110446503",
     "2436926440577560177",
     "5059268543351284637",
     "5129083846350964831",
