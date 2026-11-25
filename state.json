@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-24T19:30:34+00:00",
+  "last_run": "2026-11-25T18:39:24+00:00",
   "wishlist": {
     "2784470": {
       "name": "9 Kings",
@@ -781,6 +781,11 @@
       "name": "FLASK",
       "priority": 0,
       "date_added": 1795381217
+    },
+    "2825880": {
+      "name": "Death Howl",
+      "priority": 0,
+      "date_added": 1795553240
     }
   },
   "reviews": {
@@ -845,6 +850,13 @@
         "date": "2026-11-24",
         "pct": 92,
         "count": 1862,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": 93,
+        "count": 2267,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -912,6 +924,13 @@
         "count": 7647,
         "label": "Overwhelmingly Positive",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": 97,
+        "count": 8201,
+        "label": "Overwhelmingly Positive",
+        "scope": "all"
       }
     ],
     "3991790": [
@@ -973,6 +992,13 @@
       },
       {
         "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1042,6 +1068,13 @@
         "count": 92,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": 89,
+        "count": 95,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "3156770": [
@@ -1105,6 +1138,13 @@
         "date": "2026-11-24",
         "pct": 93,
         "count": 263,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": 94,
+        "count": 272,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1172,6 +1212,13 @@
         "count": 136,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": 89,
+        "count": 111,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "3088700": [
@@ -1235,6 +1282,13 @@
         "date": "2026-11-24",
         "pct": 93,
         "count": 88,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": 92,
+        "count": 98,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1302,6 +1356,13 @@
         "count": 294,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": 98,
+        "count": 327,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "4113940": [
@@ -1365,6 +1426,13 @@
         "date": "2026-11-24",
         "pct": 95,
         "count": 649,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": 96,
+        "count": 765,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
       }
@@ -1432,6 +1500,13 @@
         "count": 136,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": 95,
+        "count": 159,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "2640090": [
@@ -1493,6 +1568,13 @@
       },
       {
         "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1562,6 +1644,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2769570": [
@@ -1623,6 +1712,13 @@
       },
       {
         "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1692,6 +1788,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2210150": [
@@ -1753,6 +1856,13 @@
       },
       {
         "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1822,6 +1932,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2487330": [
@@ -1883,6 +2000,13 @@
       },
       {
         "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1952,6 +2076,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2156800": [
@@ -2017,11 +2148,25 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "3484950": [
       {
         "date": "2026-11-24",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-25",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -2592,7 +2737,7 @@
     },
     "3967230": {
       "name": "Alchemortis",
-      "date": "Coming soon",
+      "date": "January 2027",
       "since": "2026-11-16"
     },
     "2402470": {
@@ -2625,9 +2770,20 @@
     "release:1037170:Coming soon",
     "release:2022640:Jan 21, 2027",
     "release:2322260:2027",
-    "release:3015820:Jan 12, 2027"
+    "release:3015820:Jan 12, 2027",
+    "release:3967230:January 2027"
   ],
   "alert_log": [
+    {
+      "date": "2026-11-25",
+      "type": "release",
+      "appid": 3967230,
+      "name": "Alchemortis",
+      "old": "Coming soon",
+      "new": "January 2027",
+      "firm": false,
+      "message": "Alchemortis: release date 'Coming soon' → 'January 2027'"
+    },
     {
       "date": "2026-11-24",
       "type": "release",
@@ -2798,14 +2954,19 @@
     "1817483467037276",
     "1817483467041454",
     "1818118366170975",
+    "1818118366177584",
+    "1818118366185460",
     "1818752592119917",
     "1818752592121596",
     "1818752592124807",
     "1818752592124930",
+    "1818752592127965",
     "1818752592133463",
     "1818752592133769",
+    "1819386365087619",
     "1819386365089638",
     "1819386365090181",
+    "1819386365095312",
     "1819386365095425",
     "1819386365095562",
     "1819386365096058",
@@ -2814,6 +2975,7 @@
     "1819386365105827",
     "1819386365106359",
     "1819386365113029",
+    "1819386365114599",
     "1819386365119936",
     "1819386365126037",
     "1819386365126152",
@@ -2836,6 +2998,7 @@
     "1822556746161805",
     "1822556746162196",
     "1822556746162249",
+    "1822556746166745",
     "1822556746167551",
     "1823191198599501",
     "1823191198599689",
@@ -2843,6 +3006,7 @@
     "1823191198607345",
     "1823191198607874",
     "1823825466493467",
+    "1823825466494332",
     "1823825466494422",
     "1823825466495133",
     "1823825466502768",
@@ -2852,6 +3016,7 @@
     "1824459501608067",
     "1824644522842061",
     "1825093633184914",
+    "1825093633184916",
     "1825093633185455",
     "1825093633185472",
     "1825093633187977",
@@ -2923,6 +3088,7 @@
     "1831432155571159",
     "1831432155572280",
     "1831432155577411",
+    "1831432155578056",
     "1831432155578307",
     "1831432155578513",
     "1832065502813078",
@@ -3710,6 +3876,15 @@
     "1849827110446029",
     "1849827110446187",
     "1849827110446503",
+    "1849827110447922",
+    "1849827110447946",
+    "1850460852980200",
+    "1850460852980318",
+    "1850460852980661",
+    "1850460852981248",
+    "1850460852981315",
+    "1850460852982059",
+    "1850460852982161",
     "2436926440577560177",
     "5059268543351284637",
     "5129083846350964831",
