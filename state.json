@@ -1,735 +1,735 @@
 {
   "version": 1,
-  "last_run": "2026-11-25T18:39:24+00:00",
+  "last_run": "2026-11-26T18:26:13+00:00",
   "wishlist": {
+    "1911610": {
+      "name": "Windblown",
+      "priority": 1,
+      "date_added": 1710763081
+    },
     "2784470": {
       "name": "9 Kings",
-      "priority": 1,
+      "priority": 2,
       "date_added": 1740760843
+    },
+    "2552310": {
+      "name": "Dungeon Inn",
+      "priority": 3,
+      "date_added": 1731608335
     },
     "1799840": {
       "name": "Queen's Domain",
-      "priority": 2,
+      "priority": 4,
       "date_added": 1793542140
     },
     "3991790": {
       "name": "Attack of the Astrals",
-      "priority": 4,
-      "date_added": 1792950988
-    },
-    "1911610": {
-      "name": "Windblown",
       "priority": 5,
-      "date_added": 1710763081
+      "date_added": 1792950988
     },
     "3156770": {
       "name": "Witchfire",
       "priority": 6,
       "date_added": 1727227134
     },
-    "2552310": {
-      "name": "Dungeon Inn",
-      "priority": 7,
-      "date_added": 1731608335
-    },
     "3088700": {
       "name": "Driving Rogue",
-      "priority": 8,
+      "priority": 7,
       "date_added": 1791731465
     },
     "4075620": {
       "name": "Combolands: Roguelike Citybuilder",
-      "priority": 9,
+      "priority": 8,
       "date_added": 1786729899
     },
     "4113940": {
       "name": "Sovereign Tower",
-      "priority": 10,
+      "priority": 9,
       "date_added": 1782644671
     },
     "1913120": {
       "name": "Tears of Metal",
-      "priority": 11,
+      "priority": 10,
       "date_added": 1734112415
     },
     "2640090": {
       "name": "Arcane Eats",
-      "priority": 12,
+      "priority": 11,
       "date_added": 1749425364
     },
     "4260840": {
       "name": "STRANGER THAN HEAVEN",
-      "priority": 13,
+      "priority": 12,
       "date_added": 1780704997
     },
     "2769570": {
       "name": "Fable",
-      "priority": 14,
+      "priority": 13,
       "date_added": 1769175736
     },
     "2090210": {
       "name": "Threads of Time",
-      "priority": 15,
+      "priority": 14,
       "date_added": 1727390993
     },
     "2210150": {
       "name": "At Fate's End",
-      "priority": 16,
+      "priority": 15,
       "date_added": 1749421743
     },
     "3008640": {
       "name": "Onikura",
-      "priority": 17,
+      "priority": 16,
       "date_added": 1766184738
     },
     "2487330": {
       "name": "Stuntman: Hollywood",
-      "priority": 18,
+      "priority": 17,
       "date_added": 1780447088
     },
     "4729320": {
       "name": "Swords of Legends",
-      "priority": 19,
+      "priority": 18,
       "date_added": 1780702560
     },
     "2156800": {
       "name": "Ithaca",
-      "priority": 20,
+      "priority": 19,
       "date_added": 1780843898
     },
     "3484950": {
       "name": "AfterQuest",
-      "priority": 21,
+      "priority": 20,
       "date_added": 1780872947
     },
     "2843060": {
       "name": "Into the Wind",
-      "priority": 22,
+      "priority": 21,
       "date_added": 1780877621
     },
     "1884870": {
       "name": "The Wolf Among Us 2",
-      "priority": 23,
+      "priority": 22,
       "date_added": 1780946498
     },
     "2649560": {
       "name": "Persona 6",
-      "priority": 24,
+      "priority": 23,
       "date_added": 1781959558
     },
     "4338750": {
       "name": "Stack Order",
-      "priority": 25,
+      "priority": 24,
       "date_added": 1789032382
     },
     "2664600": {
       "name": "The Last Hour of an Epic TO THE MOON RPG",
-      "priority": 26,
+      "priority": 25,
       "date_added": 1782861979
     },
     "2667460": {
       "name": "KEMURI",
-      "priority": 27,
+      "priority": 26,
       "date_added": 1789993558
     },
     "3100370": {
       "name": "Black Jacket",
-      "priority": 28,
+      "priority": 27,
       "date_added": 1784034776
     },
     "1996390": {
       "name": "Escape from Ever After",
-      "priority": 29,
+      "priority": 28,
       "date_added": 1769278610
     },
     "2026820": {
       "name": "Die in the Dungeon",
-      "priority": 30,
+      "priority": 29,
       "date_added": 1710941548
     },
     "3617620": {
       "name": "My Card Is Better Than Your Card!",
-      "priority": 31,
+      "priority": 30,
       "date_added": 1753016337
     },
     "1982120": {
       "name": "Paper Animal Adventure",
-      "priority": 32,
+      "priority": 31,
       "date_added": 1754754636
     },
     "2615540": {
       "name": "VOID/BREAKER",
-      "priority": 33,
+      "priority": 32,
       "date_added": 1744455349
     },
     "1239360": {
       "name": "Genokids",
-      "priority": 34,
+      "priority": 33,
       "date_added": 1759680014
     },
     "2671450": {
       "name": "E-Lich: Corporate Souls",
-      "priority": 35,
+      "priority": 34,
       "date_added": 1766064346
     },
     "2896260": {
       "name": "ODDCORE",
-      "priority": 36,
+      "priority": 35,
       "date_added": 1767821868
     },
     "3720420": {
       "name": "Demon Lord: Just a Block",
-      "priority": 37,
+      "priority": 36,
       "date_added": 1778355029
     },
     "1969810": {
       "name": "Enter the Chronosphere",
-      "priority": 38,
+      "priority": 37,
       "date_added": 1716223071
     },
     "3624140": {
       "name": "Wanderburg",
-      "priority": 39,
+      "priority": 38,
       "date_added": 1749425979
     },
     "3271280": {
       "name": "Shroom and Gloom",
-      "priority": 40,
+      "priority": 39,
       "date_added": 1765062442
     },
     "3295000": {
       "name": "ReVamp",
-      "priority": 41,
+      "priority": 40,
       "date_added": 1773437999
     },
     "3470500": {
       "name": "Ember and Blade",
-      "priority": 42,
+      "priority": 41,
       "date_added": 1744506341
     },
     "1101370": {
       "name": "Wind Runners",
-      "priority": 43,
+      "priority": 42,
       "date_added": 1715739708
     },
     "3522600": {
       "name": "Demon Bluff",
-      "priority": 44,
+      "priority": 43,
       "date_added": 1753015082
     },
     "1902970": {
       "name": "Castle Come",
-      "priority": 45,
+      "priority": 44,
       "date_added": 1719620282
     },
     "3151840": {
       "name": "Umblight",
-      "priority": 46,
+      "priority": 45,
       "date_added": 1760958595
     },
     "3749830": {
       "name": "Neath",
-      "priority": 47,
+      "priority": 46,
       "date_added": 1764928341
     },
     "3590630": {
       "name": "Hero's Hand",
-      "priority": 48,
+      "priority": 47,
       "date_added": 1742219445
     },
     "4198020": {
       "name": "Fame Or Folly",
-      "priority": 49,
+      "priority": 48,
       "date_added": 1778674171
     },
     "3509380": {
       "name": "GrimKeep",
-      "priority": 50,
+      "priority": 49,
       "date_added": 1751043570
     },
     "2024600": {
       "name": "Into The Unwell",
-      "priority": 51,
+      "priority": 50,
       "date_added": 1749301696
     },
     "3211720": {
       "name": "Erosion",
-      "priority": 52,
+      "priority": 51,
       "date_added": 1763801989
     },
     "3176500": {
       "name": "Wizard Cats",
-      "priority": 53,
+      "priority": 52,
       "date_added": 1760624305
     },
     "2626570": {
       "name": "GodsTV",
-      "priority": 54,
+      "priority": 53,
       "date_added": 1766600643
     },
     "2595120": {
       "name": "Wild Seasons",
-      "priority": 55,
+      "priority": 54,
       "date_added": 1711209872
     },
     "2857810": {
       "name": "Sleight of Hand",
-      "priority": 56,
+      "priority": 55,
       "date_added": 1709862380
     },
     "2211130": {
       "name": "SOULBOUND",
-      "priority": 57,
+      "priority": 56,
       "date_added": 1744053710
     },
     "2681870": {
       "name": "Kidbash: Super Legend",
-      "priority": 58,
+      "priority": 57,
       "date_added": 1723254076
     },
     "3021800": {
       "name": "Bleakwood",
-      "priority": 59,
+      "priority": 58,
       "date_added": 1737927876
     },
     "2339840": {
       "name": "Enter the Gungeon 2",
-      "priority": 60,
+      "priority": 59,
       "date_added": 1743603924
     },
     "2578510": {
       "name": "20MTD: Emberpath",
-      "priority": 61,
+      "priority": 60,
       "date_added": 1715739468
     },
     "4061170": {
       "name": "SlashZero",
-      "priority": 62,
+      "priority": 61,
       "date_added": 1773525644
     },
     "2936830": {
       "name": "AVA and the Half-World",
-      "priority": 63,
+      "priority": 62,
       "date_added": 1717014075
     },
     "1363940": {
       "name": "Tenjutsu",
-      "priority": 64,
+      "priority": 63,
       "date_added": 1717847697
     },
     "3015820": {
       "name": "To Kill a God",
-      "priority": 65,
+      "priority": 64,
       "date_added": 1729205206
     },
     "3258580": {
       "name": "Don't Wake the Beast",
-      "priority": 66,
+      "priority": 65,
       "date_added": 1732284860
     },
     "3398880": {
       "name": "Castle V Castle",
-      "priority": 67,
+      "priority": 66,
       "date_added": 1740961814
     },
     "2348250": {
       "name": "13Z: The Zodiac Trials",
-      "priority": 68,
+      "priority": 67,
       "date_added": 1735519162
     },
     "2216850": {
       "name": "Battle Vision",
-      "priority": 69,
+      "priority": 68,
       "date_added": 1717857046
     },
     "2134320": {
       "name": "ENA: Dream BBQ",
-      "priority": 70,
+      "priority": 69,
       "date_added": 1744029913
     },
     "2638890": {
       "name": "Onimusha: Way of the Sword",
-      "priority": 71,
+      "priority": 70,
       "date_added": 1780446913
     },
     "2022640": {
       "name": "CALX",
-      "priority": 72,
+      "priority": 71,
       "date_added": 1773525178
     },
     "2322260": {
       "name": "Don't Kill Them All - Orc Slay Prevention Sim",
-      "priority": 73,
+      "priority": 72,
       "date_added": 1737927872
     },
     "1661330": {
       "name": "SacriFire",
-      "priority": 74,
+      "priority": 73,
       "date_added": 1751043392
     },
     "2251170": {
       "name": "ZWAARD",
-      "priority": 75,
+      "priority": 74,
       "date_added": 1768083957
     },
     "1725710": {
       "name": "Demi and the Fractured Dream",
-      "priority": 76,
+      "priority": 75,
       "date_added": 1758856277
     },
     "3106050": {
       "name": "Dark Queen of Samobor",
-      "priority": 77,
+      "priority": 76,
       "date_added": 1726685934
     },
     "2584400": {
       "name": "Beaten Path",
-      "priority": 78,
+      "priority": 77,
       "date_added": 1756642610
     },
     "2719590": {
       "name": "Light No Fire",
-      "priority": 79,
+      "priority": 78,
       "date_added": 1710763160
     },
     "2109770": {
       "name": "Kingmakers",
-      "priority": 80,
+      "priority": 79,
       "date_added": 1738797690
     },
     "2389220": {
       "name": "Sandara: City of a Thousand Eclipses",
-      "priority": 81,
+      "priority": 80,
       "date_added": 1718030551
     },
     "2324550": {
       "name": "Robo Frenzy",
-      "priority": 82,
+      "priority": 81,
       "date_added": 1755954843
     },
     "2384640": {
       "name": "WILD Tactics",
-      "priority": 83,
+      "priority": 82,
       "date_added": 1718400788
     },
     "2421000": {
       "name": "BANDIT KNIGHT",
-      "priority": 84,
+      "priority": 83,
       "date_added": 1729772859
     },
     "3346320": {
       "name": "RE:Choice",
-      "priority": 85,
+      "priority": 84,
       "date_added": 1733573189
     },
     "2850910": {
       "name": "Prisma",
-      "priority": 86,
+      "priority": 85,
       "date_added": 1733951071
     },
     "3333990": {
       "name": "Covenant",
-      "priority": 87,
+      "priority": 86,
       "date_added": 1734350031
     },
     "2724650": {
       "name": "The Bustling World",
-      "priority": 88,
+      "priority": 87,
       "date_added": 1737234525
     },
     "2185250": {
       "name": "Iron Corbo: Kung Fu Janitor",
-      "priority": 89,
+      "priority": 88,
       "date_added": 1743101278
     },
     "3166050": {
       "name": "Quite a Ride",
-      "priority": 90,
+      "priority": 89,
       "date_added": 1743215686
     },
     "3541250": {
       "name": "Welcome to Brightville",
-      "priority": 91,
+      "priority": 90,
       "date_added": 1744155312
     },
     "1999930": {
       "name": "Never's End",
-      "priority": 92,
+      "priority": 91,
       "date_added": 1749156952
     },
     "2439280": {
       "name": "Clockwork Revolution",
-      "priority": 93,
+      "priority": 92,
       "date_added": 1750080330
     },
     "3746310": {
       "name": "Chains of Lukomorye",
-      "priority": 94,
+      "priority": 93,
       "date_added": 1751545981
     },
     "3345210": {
       "name": "The Hidden Ones",
-      "priority": 95,
+      "priority": 94,
       "date_added": 1751914376
     },
     "4123930": {
       "name": "Soverain: An Eternal Legend",
-      "priority": 96,
+      "priority": 95,
       "date_added": 1761990803
     },
     "3325070": {
       "name": "Forest Reigns",
-      "priority": 97,
+      "priority": 96,
       "date_added": 1754179767
     },
     "3744040": {
       "name": "Kaidan",
-      "priority": 98,
+      "priority": 97,
       "date_added": 1756576446
     },
     "2254950": {
       "name": "The Eternal Life of Goldman",
-      "priority": 99,
+      "priority": 98,
       "date_added": 1763912860
     },
     "4095380": {
       "name": "Soulframe",
-      "priority": 100,
+      "priority": 99,
       "date_added": 1764185244
     },
     "1108600": {
       "name": "Last Moon",
-      "priority": 101,
+      "priority": 100,
       "date_added": 1766075250
     },
     "3082730": {
       "name": "HYPERyuki: Snowboard Syndicate ",
-      "priority": 102,
+      "priority": 101,
       "date_added": 1768661861
     },
     "1445880": {
       "name": "ROCKBEASTS",
-      "priority": 103,
+      "priority": 102,
       "date_added": 1763912976
     },
     "499170": {
       "name": "Order of the Sinking Star",
-      "priority": 104,
+      "priority": 103,
       "date_added": 1765543057
     },
     "3970690": {
       "name": "Project Shadowglass",
-      "priority": 105,
+      "priority": 104,
       "date_added": 1768818214
     },
     "2855590": {
       "name": "Knight's Path",
-      "priority": 106,
+      "priority": 105,
       "date_added": 1769248213
     },
     "2295170": {
       "name": "Emberville",
-      "priority": 107,
+      "priority": 106,
       "date_added": 1769552136
     },
     "4267860": {
       "name": "Ascenders: Beyond the Peak",
-      "priority": 108,
+      "priority": 107,
       "date_added": 1775245035
     },
     "3639060": {
       "name": "DELIVERY MUST COMPLETE",
-      "priority": 109,
+      "priority": 108,
       "date_added": 1777328873
     },
     "3905500": {
       "name": "Beware of the Cartographer!",
-      "priority": 110,
+      "priority": 109,
       "date_added": 1777738380
     },
     "2732480": {
       "name": "Emery Hearts",
-      "priority": 111,
+      "priority": 110,
       "date_added": 1780100140
     },
     "4669960": {
       "name": "Dungeon Lurker",
-      "priority": 112,
+      "priority": 111,
       "date_added": 1780344561
     },
     "3591900": {
       "name": "Chivalware",
-      "priority": 113,
+      "priority": 112,
       "date_added": 1780351072
     },
     "3596430": {
       "name": "Bancho the Chef",
-      "priority": 114,
+      "priority": 113,
       "date_added": 1780446529
     },
     "3348210": {
       "name": "Super Yooka-Laylee Kart",
-      "priority": 115,
+      "priority": 114,
       "date_added": 1780704326
     },
     "1963680": {
       "name": "GUNDAM ROGUE ORBIT",
-      "priority": 116,
+      "priority": 115,
       "date_added": 1780761824
     },
     "3669200": {
       "name": "Guildrun",
-      "priority": 117,
+      "priority": 116,
       "date_added": 1784243686
     },
     "3299300": {
       "name": "Magicians: The Devil's Deal",
-      "priority": 118,
+      "priority": 117,
       "date_added": 1780869734
     },
     "1037170": {
       "name": "Maximum Thunderness",
-      "priority": 119,
+      "priority": 118,
       "date_added": 1780873355
     },
     "4354570": {
       "name": "FINAL FANTASY VII REVELATION",
-      "priority": 120,
+      "priority": 119,
       "date_added": 1782481532
     },
     "3106270": {
       "name": "HELLCARD II",
-      "priority": 121,
+      "priority": 120,
       "date_added": 1784034934
     },
     "2685100": {
       "name": "NOIR BLOOM",
-      "priority": 122,
+      "priority": 121,
       "date_added": 1784650281
     },
     "3074730": {
       "name": "Hoptale",
-      "priority": 123,
+      "priority": 122,
       "date_added": 1784979633
     },
     "1845250": {
       "name": "Rubinite",
-      "priority": 124,
+      "priority": 123,
       "date_added": 1785231091
     },
     "4687860": {
       "name": "Guns and Dragons",
-      "priority": 125,
+      "priority": 124,
       "date_added": 1785277398
     },
     "2753900": {
       "name": "The King is Watching",
-      "priority": 126,
+      "priority": 125,
       "date_added": 1785583472
     },
     "4657920": {
       "name": "War Fantasy",
-      "priority": 127,
+      "priority": 126,
       "date_added": 1785704768
     },
     "4348910": {
       "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "priority": 128,
+      "priority": 127,
       "date_added": 1786215935
     },
     "974480": {
       "name": "Echoes of Mystralia",
-      "priority": 129,
+      "priority": 128,
       "date_added": 1787145939
     },
     "1731290": {
       "name": "SPINE - This is Gun Fu",
-      "priority": 130,
+      "priority": 129,
       "date_added": 1787765253
     },
     "2518790": {
       "name": "Hieronymus",
-      "priority": 131,
+      "priority": 130,
       "date_added": 1787766069
     },
     "5056630": {
       "name": "Last Ditch Effort",
-      "priority": 132,
+      "priority": 131,
       "date_added": 1787769762
     },
     "4891150": {
       "name": "Rogue Fortune",
-      "priority": 133,
+      "priority": 132,
       "date_added": 1787839683
     },
     "2959460": {
       "name": "Matelotes",
-      "priority": 134,
+      "priority": 133,
       "date_added": 1788009479
     },
     "4973250": {
       "name": "PIO: A Robot’s Story",
-      "priority": 135,
+      "priority": 134,
       "date_added": 1788261771
     },
     "2459550": {
       "name": "Emberward",
-      "priority": 136,
+      "priority": 135,
       "date_added": 1789323819
     },
     "4965860": {
       "name": "PROJECT ZIRCON -A Roguelike Card Game-",
-      "priority": 137,
+      "priority": 136,
       "date_added": 1788513615
     },
     "2004530": {
       "name": "Northern Saga",
-      "priority": 138,
+      "priority": 137,
       "date_added": 1789928358
     },
     "3699590": {
       "name": "Well Dweller",
-      "priority": 139,
+      "priority": 138,
       "date_added": 1790612242
     },
     "4210390": {
       "name": "Volatiles",
-      "priority": 140,
+      "priority": 139,
       "date_added": 1791478390
     },
     "2017940": {
       "name": "Pony Island 2: Panda Circus",
-      "priority": 141,
+      "priority": 140,
       "date_added": 1791479394
     },
     "3710650": {
       "name": "Little Prince Tyger",
-      "priority": 142,
+      "priority": 141,
       "date_added": 1791481140
     },
     "2686570": {
       "name": "Waltz and Jam",
-      "priority": 143,
+      "priority": 142,
       "date_added": 1791491732
     },
     "5145940": {
       "name": "The Crab is Walking",
-      "priority": 145,
+      "priority": 143,
       "date_added": 1791841289
     },
     "4660470": {
       "name": "Near Mint",
-      "priority": 146,
+      "priority": 144,
       "date_added": 1791977153
     },
     "3967230": {
       "name": "Alchemortis",
-      "priority": 148,
+      "priority": 145,
       "date_added": 1792960183
     },
     "2402470": {
       "name": "World of Anterra",
-      "priority": 149,
+      "priority": 146,
       "date_added": 1793099945
     },
     "3858030": {
@@ -786,6 +786,11 @@
       "name": "Death Howl",
       "priority": 0,
       "date_added": 1795553240
+    },
+    "4485070": {
+      "name": "Cloudsphere",
+      "priority": 0,
+      "date_added": 1795695319
     }
   },
   "reviews": {
@@ -857,6 +862,13 @@
         "date": "2026-11-25",
         "pct": 93,
         "count": 2267,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": 94,
+        "count": 2553,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -931,6 +943,13 @@
         "count": 8201,
         "label": "Overwhelmingly Positive",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": 97,
+        "count": 8659,
+        "label": "Overwhelmingly Positive",
+        "scope": "all"
       }
     ],
     "3991790": [
@@ -1003,6 +1022,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "2 user reviews",
+        "scope": "all"
       }
     ],
     "1911610": [
@@ -1073,6 +1099,13 @@
         "date": "2026-11-25",
         "pct": 89,
         "count": 95,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": 91,
+        "count": 93,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1147,6 +1180,13 @@
         "count": 272,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": 94,
+        "count": 291,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "2552310": [
@@ -1217,6 +1257,13 @@
         "date": "2026-11-25",
         "pct": 89,
         "count": 111,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": 88,
+        "count": 103,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1291,6 +1338,13 @@
         "count": 98,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": 93,
+        "count": 108,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "4075620": [
@@ -1361,6 +1415,13 @@
         "date": "2026-11-25",
         "pct": 98,
         "count": 327,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": 98,
+        "count": 349,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
       }
@@ -1435,6 +1496,13 @@
         "count": 765,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": 96,
+        "count": 834,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "1913120": [
@@ -1507,6 +1575,13 @@
         "count": 159,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": 96,
+        "count": 177,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "2640090": [
@@ -1575,6 +1650,13 @@
       },
       {
         "date": "2026-11-25",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1651,6 +1733,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2769570": [
@@ -1719,6 +1808,13 @@
       },
       {
         "date": "2026-11-25",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1795,6 +1891,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2210150": [
@@ -1863,6 +1966,13 @@
       },
       {
         "date": "2026-11-25",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1939,6 +2049,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2487330": [
@@ -2007,6 +2124,13 @@
       },
       {
         "date": "2026-11-25",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -2083,6 +2207,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2156800": [
@@ -2155,6 +2286,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "3484950": [
@@ -2167,6 +2305,13 @@
       },
       {
         "date": "2026-11-25",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-26",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -2259,9 +2404,9 @@
       "name": "The Crab is Walking",
       "since": "2026-11-16"
     },
-    "4660470": {
-      "name": "Near Mint",
-      "since": "2026-11-16"
+    "4485070": {
+      "name": "Cloudsphere",
+      "since": "2026-11-26"
     }
   },
   "release_watch": {
@@ -2764,9 +2909,15 @@
       "name": "Five More Minutes",
       "date": "Q1 2027",
       "since": "2026-11-20"
+    },
+    "4485070": {
+      "name": "Cloudsphere",
+      "date": "Coming soon",
+      "since": "2026-11-26"
     }
   },
   "alerts_sent": [
+    "controller:4660470",
     "release:1037170:Coming soon",
     "release:2022640:Jan 21, 2027",
     "release:2322260:2027",
@@ -2774,6 +2925,14 @@
     "release:3967230:January 2027"
   ],
   "alert_log": [
+    {
+      "date": "2026-11-26",
+      "type": "controller",
+      "appid": 4660470,
+      "name": "Near Mint",
+      "controller_support": "listed",
+      "message": "Near Mint now has controller support (listed)."
+    },
     {
       "date": "2026-11-25",
       "type": "release",
@@ -3363,6 +3522,7 @@
     "1841579228679442",
     "1842212951295588",
     "1842212951297216",
+    "1842212951297349",
     "1842212951297682",
     "1842212951297884",
     "1842212951297895",
@@ -3455,6 +3615,7 @@
     "1844115010493328",
     "1844115010493874",
     "1844115010494453",
+    "1844115010494959",
     "1844115010495091",
     "1844115010495103",
     "1844115010495395",
@@ -3567,6 +3728,7 @@
     "1846651706679175",
     "1846651706679775",
     "1846651706679920",
+    "1846651706680600",
     "1846651706681392",
     "1846651706681474",
     "1846651706681736",
@@ -3883,8 +4045,22 @@
     "1850460852980661",
     "1850460852981248",
     "1850460852981315",
+    "1850460852982049",
     "1850460852982059",
     "1850460852982161",
+    "1850460852983810",
+    "1850460852983905",
+    "1850460852983908",
+    "1850460852984439",
+    "1850460852984622",
+    "1850460852985672",
+    "1850460852985873",
+    "1850460852985894",
+    "1850460852986147",
+    "1850460852986172",
+    "1850460852986384",
+    "1850460852986393",
+    "1850460852986434",
     "2436926440577560177",
     "5059268543351284637",
     "5129083846350964831",
