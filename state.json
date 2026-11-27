@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-26T18:26:13+00:00",
+  "last_run": "2026-11-27T18:11:50+00:00",
   "wishlist": {
     "1911610": {
       "name": "Windblown",
@@ -358,7 +358,7 @@
       "date_added": 1773525178
     },
     "2322260": {
-      "name": "Don't Kill Them All - Orc Slay Prevention Sim",
+      "name": "Don't Kill Them All - Orc Anger Management",
       "priority": 72,
       "date_added": 1737927872
     },
@@ -871,6 +871,13 @@
         "count": 2553,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": 94,
+        "count": 2723,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "1799840": [
@@ -948,6 +955,13 @@
         "date": "2026-11-26",
         "pct": 97,
         "count": 8659,
+        "label": "Overwhelmingly Positive",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": 97,
+        "count": 8956,
         "label": "Overwhelmingly Positive",
         "scope": "all"
       }
@@ -1029,6 +1043,13 @@
         "count": null,
         "label": "2 user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": 100,
+        "count": 27,
+        "label": "Positive",
+        "scope": "all"
       }
     ],
     "1911610": [
@@ -1106,6 +1127,13 @@
         "date": "2026-11-26",
         "pct": 91,
         "count": 93,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": 93,
+        "count": 100,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1187,6 +1215,13 @@
         "count": 291,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": 95,
+        "count": 298,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "2552310": [
@@ -1264,6 +1299,13 @@
         "date": "2026-11-26",
         "pct": 88,
         "count": 103,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": 87,
+        "count": 94,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1345,6 +1387,13 @@
         "count": 108,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": 94,
+        "count": 110,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "4075620": [
@@ -1422,6 +1471,13 @@
         "date": "2026-11-26",
         "pct": 98,
         "count": 349,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": 98,
+        "count": 360,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
       }
@@ -1503,6 +1559,13 @@
         "count": 834,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": 96,
+        "count": 890,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "1913120": [
@@ -1582,6 +1645,13 @@
         "count": 177,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": 96,
+        "count": 181,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "2640090": [
@@ -1657,6 +1727,13 @@
       },
       {
         "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1740,6 +1817,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2769570": [
@@ -1815,6 +1899,13 @@
       },
       {
         "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1898,6 +1989,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2210150": [
@@ -1973,6 +2071,13 @@
       },
       {
         "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -2056,6 +2161,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2487330": [
@@ -2131,6 +2243,13 @@
       },
       {
         "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -2214,6 +2333,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2156800": [
@@ -2293,6 +2419,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "3484950": [
@@ -2312,6 +2445,13 @@
       },
       {
         "date": "2026-11-26",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-27",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -2361,7 +2501,7 @@
       "since": "2026-11-16"
     },
     "2322260": {
-      "name": "Don't Kill Them All - Orc Slay Prevention Sim",
+      "name": "Don't Kill Them All - Orc Anger Management",
       "since": "2026-11-16"
     },
     "2719590": {
@@ -2601,7 +2741,7 @@
       "since": "2026-11-16"
     },
     "2322260": {
-      "name": "Don't Kill Them All - Orc Slay Prevention Sim",
+      "name": "Don't Kill Them All - Orc Anger Management",
       "date": "2027",
       "since": "2026-11-16"
     },
@@ -4061,6 +4201,15 @@
     "1850460852986384",
     "1850460852986393",
     "1850460852986434",
+    "1850460852986980",
+    "1850460852987303",
+    "1850460852988533",
+    "1850460852988626",
+    "1850460852989324",
+    "1850460852989499",
+    "1850460852989899",
+    "1850460852989932",
+    "1850460852990205",
     "2436926440577560177",
     "5059268543351284637",
     "5129083846350964831",

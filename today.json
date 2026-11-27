@@ -1,178 +1,122 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T18:26:13+00:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T18:11:50+00:00",
   "baseline": false,
-  "controller_alerts": [
-    {
-      "appid": 4660470,
-      "name": "Near Mint",
-      "controller_support": "listed",
-      "message": "Near Mint now has controller support (listed)."
-    }
-  ],
+  "controller_alerts": [],
   "release_date_changes": [],
   "new_announcements": [
     {
-      "title": "🔧 New Patch - v0.26.62818 - Bugs & Balance [Experimental]",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986434",
-      "date": "2026-11-26T17:08:38+00:00",
-      "appid": 1913120,
-      "name": "Tears of Metal"
+      "title": "Version 1.0.11 - Patch Notes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852990205",
+      "date": "2026-11-27T16:00:44+00:00",
+      "appid": 2615540,
+      "name": "VOID/BREAKER"
     },
     {
-      "title": "Thanksgiving Dev Update",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986393",
-      "date": "2026-11-26T17:00:34+00:00",
-      "appid": 2640090,
-      "name": "Arcane Eats"
+      "title": "Dev Diary #8 - Weapons",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989932",
+      "date": "2026-11-27T14:50:39+00:00",
+      "appid": 2584400,
+      "name": "Beaten Path"
     },
     {
-      "title": "Windblown | 'Labor of Love' Nomination, 1.0 Save News & New Wallpapers",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986384",
-      "date": "2026-11-26T16:59:55+00:00",
-      "appid": 1911610,
-      "name": "Windblown"
+      "title": "Shroom and Gloom for 'Oustanding Visual Style' Steam Award! Nov '26 Dev Log!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989899",
+      "date": "2026-11-27T14:38:21+00:00",
+      "appid": 3271280,
+      "name": "Shroom and Gloom"
     },
     {
-      "title": "Hotfix 1.0.6",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986172",
-      "date": "2026-11-26T16:16:56+00:00",
-      "appid": 3991790,
-      "name": "Attack of the Astrals"
-    },
-    {
-      "title": "All Army Attack demo closes November 30th!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986147",
-      "date": "2026-11-26T16:10:20+00:00",
-      "appid": 4128840,
-      "name": "All Army Attack"
-    },
-    {
-      "title": "New Gameplay Overview Trailer",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985894",
-      "date": "2026-11-26T15:10:28+00:00",
-      "appid": 2022640,
-      "name": "CALX"
-    },
-    {
-      "title": "Attack of the Astrals has landed!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985873",
-      "date": "2026-11-26T15:05:48+00:00",
-      "appid": 3991790,
-      "name": "Attack of the Astrals"
-    },
-    {
-      "title": "Controller Support (Beta) and Balancing Update - 0.7.1",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985672",
-      "date": "2026-11-26T14:12:41+00:00",
+      "title": "Ellicil nerf + bug fix - 0.7.1-88dd.23",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989499",
+      "date": "2026-11-27T12:49:48+00:00",
       "appid": 4660470,
       "name": "Near Mint"
     },
     {
-      "title": "Beneath the Shroud — Ep. 7: Hiss",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852984622",
-      "date": "2026-11-26T09:00:11+00:00",
+      "title": "Playtests on the Horizon // Devlog #4",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989324",
+      "date": "2026-11-27T12:00:30+00:00",
+      "appid": 4891150,
+      "name": "Rogue Fortune"
+    },
+    {
+      "title": "November Playtest Highlights",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852988626",
+      "date": "2026-11-27T08:32:47+00:00",
+      "appid": 4687860,
+      "name": "Guns and Dragons"
+    },
+    {
+      "title": "Beneath the Shroud — Ep. 8: Non",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852988533",
+      "date": "2026-11-27T08:00:24+00:00",
       "appid": 2686570,
       "name": "Waltz and Jam"
     },
     {
-      "title": "D-7 to Launch! Steam Deck Verified & Check-In Event Kickoff!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852984439",
-      "date": "2026-11-26T08:01:21+00:00",
-      "appid": 2686570,
-      "name": "Waltz and Jam"
+      "title": "Patch #34: New Season, Slime/Singularity Performance, Fixes, Improved Save File",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852987303",
+      "date": "2026-11-26T21:42:55+00:00",
+      "appid": 2784470,
+      "name": "9 Kings"
     },
     {
-      "title": "Major Update 0.7.2.8",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852983908",
-      "date": "2026-11-26T04:06:26+00:00",
-      "appid": 2483700,
-      "name": "HARMA"
-    },
-    {
-      "title": "Major QoL Update - Multiplayer Public Lobby System is Here!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852983905",
-      "date": "2026-11-26T04:04:59+00:00",
-      "appid": 2483700,
-      "name": "HARMA"
-    },
-    {
-      "title": "The HARMA Global Community Challenge Has Ended",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852983810",
-      "date": "2026-11-26T03:18:56+00:00",
-      "appid": 2483700,
-      "name": "HARMA"
-    },
-    {
-      "title": "Cloudsphere Playtest 2 is live!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852982049",
-      "date": "2026-11-25T17:02:00+00:00",
-      "appid": 4485070,
-      "name": "Cloudsphere"
+      "title": "Echoes of Mystralia – Devlog #4 – Perils of the Rift Update! 🌀",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986980",
+      "date": "2026-11-26T19:37:51+00:00",
+      "appid": 974480,
+      "name": "Echoes of Mystralia"
     }
   ],
   "review_changes": [
     {
       "appid": 1911610,
       "name": "Windblown",
-      "old_pct": 89,
-      "new_pct": 91,
+      "old_pct": 91,
+      "new_pct": 93,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-25"
-    },
-    {
-      "appid": 2784470,
-      "name": "9 Kings",
-      "old_pct": 93,
-      "new_pct": 94,
-      "old_label": "Very Positive",
-      "new_label": "Very Positive",
-      "since": "2026-11-25"
+      "since": "2026-11-26"
     },
     {
       "appid": 2552310,
       "name": "Dungeon Inn",
-      "old_pct": 89,
-      "new_pct": 88,
+      "old_pct": 88,
+      "new_pct": 87,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-25"
+      "since": "2026-11-26"
     },
     {
       "appid": 3991790,
       "name": "Attack of the Astrals",
       "old_pct": null,
-      "new_pct": null,
-      "old_label": "No user reviews",
-      "new_label": "2 user reviews",
-      "since": "2026-11-25"
+      "new_pct": 100,
+      "old_label": "2 user reviews",
+      "new_label": "Positive",
+      "since": "2026-11-26"
+    },
+    {
+      "appid": 3156770,
+      "name": "Witchfire",
+      "old_pct": 94,
+      "new_pct": 95,
+      "old_label": "Very Positive",
+      "new_label": "Overwhelmingly Positive",
+      "since": "2026-11-26"
     },
     {
       "appid": 3088700,
       "name": "Driving Rogue",
-      "old_pct": 92,
-      "new_pct": 93,
+      "old_pct": 93,
+      "new_pct": 94,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-25"
-    },
-    {
-      "appid": 1913120,
-      "name": "Tears of Metal",
-      "old_pct": 95,
-      "new_pct": 96,
-      "old_label": "Overwhelmingly Positive",
-      "new_label": "Overwhelmingly Positive",
-      "since": "2026-11-25"
+      "since": "2026-11-26"
     }
   ],
-  "wishlist_added": [
-    {
-      "appid": 4485070,
-      "name": "Cloudsphere"
-    }
-  ],
+  "wishlist_added": [],
   "wishlist_removed": [],
   "fetch_failures": []
 }
