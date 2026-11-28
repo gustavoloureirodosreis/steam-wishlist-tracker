@@ -1,122 +1,53 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T18:11:50+00:00",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T16:53:22+00:00",
   "baseline": false,
   "controller_alerts": [],
   "release_date_changes": [],
   "new_announcements": [
     {
-      "title": "Version 1.0.11 - Patch Notes",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852990205",
-      "date": "2026-11-27T16:00:44+00:00",
-      "appid": 2615540,
-      "name": "VOID/BREAKER"
-    },
-    {
-      "title": "Dev Diary #8 - Weapons",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989932",
-      "date": "2026-11-27T14:50:39+00:00",
-      "appid": 2584400,
-      "name": "Beaten Path"
-    },
-    {
-      "title": "Shroom and Gloom for 'Oustanding Visual Style' Steam Award! Nov '26 Dev Log!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989899",
-      "date": "2026-11-27T14:38:21+00:00",
-      "appid": 3271280,
-      "name": "Shroom and Gloom"
-    },
-    {
-      "title": "Ellicil nerf + bug fix - 0.7.1-88dd.23",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989499",
-      "date": "2026-11-27T12:49:48+00:00",
-      "appid": 4660470,
-      "name": "Near Mint"
-    },
-    {
-      "title": "Playtests on the Horizon // Devlog #4",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989324",
-      "date": "2026-11-27T12:00:30+00:00",
-      "appid": 4891150,
-      "name": "Rogue Fortune"
-    },
-    {
-      "title": "November Playtest Highlights",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852988626",
-      "date": "2026-11-27T08:32:47+00:00",
-      "appid": 4687860,
-      "name": "Guns and Dragons"
-    },
-    {
-      "title": "Beneath the Shroud — Ep. 8: Non",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852988533",
-      "date": "2026-11-27T08:00:24+00:00",
-      "appid": 2686570,
-      "name": "Waltz and Jam"
-    },
-    {
-      "title": "Patch #34: New Season, Slime/Singularity Performance, Fixes, Improved Save File",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852987303",
-      "date": "2026-11-26T21:42:55+00:00",
-      "appid": 2784470,
-      "name": "9 Kings"
-    },
-    {
-      "title": "Echoes of Mystralia – Devlog #4 – Perils of the Rift Update! 🌀",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986980",
-      "date": "2026-11-26T19:37:51+00:00",
-      "appid": 974480,
-      "name": "Echoes of Mystralia"
+      "title": "King Skull, the Dark Lord",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852991195",
+      "date": "2026-11-27T19:49:44+00:00",
+      "appid": 2753900,
+      "name": "The King is Watching"
     }
   ],
   "review_changes": [
     {
       "appid": 1911610,
       "name": "Windblown",
-      "old_pct": 91,
-      "new_pct": 93,
+      "old_pct": 93,
+      "new_pct": 92,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-26"
+      "since": "2026-11-27"
     },
     {
       "appid": 2552310,
       "name": "Dungeon Inn",
-      "old_pct": 88,
-      "new_pct": 87,
+      "old_pct": 87,
+      "new_pct": 84,
       "old_label": "Very Positive",
       "new_label": "Very Positive",
-      "since": "2026-11-26"
+      "since": "2026-11-27"
     },
     {
-      "appid": 3991790,
-      "name": "Attack of the Astrals",
-      "old_pct": null,
-      "new_pct": 100,
-      "old_label": "2 user reviews",
-      "new_label": "Positive",
-      "since": "2026-11-26"
-    },
-    {
-      "appid": 3156770,
-      "name": "Witchfire",
-      "old_pct": 94,
-      "new_pct": 95,
-      "old_label": "Very Positive",
+      "appid": 4113940,
+      "name": "Sovereign Tower",
+      "old_pct": 96,
+      "new_pct": 97,
+      "old_label": "Overwhelmingly Positive",
       "new_label": "Overwhelmingly Positive",
-      "since": "2026-11-26"
-    },
-    {
-      "appid": 3088700,
-      "name": "Driving Rogue",
-      "old_pct": 93,
-      "new_pct": 94,
-      "old_label": "Very Positive",
-      "new_label": "Very Positive",
-      "since": "2026-11-26"
+      "since": "2026-11-27"
     }
   ],
-  "wishlist_added": [],
+  "wishlist_added": [
+    {
+      "appid": 2097230,
+      "name": "Turnip Boy Robs a Bank"
+    }
+  ],
   "wishlist_removed": [],
   "fetch_failures": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-27T18:11:50+00:00",
+  "last_run": "2026-11-28T16:53:22+00:00",
   "wishlist": {
     "1911610": {
       "name": "Windblown",
@@ -791,6 +791,11 @@
       "name": "Cloudsphere",
       "priority": 0,
       "date_added": 1795695319
+    },
+    "2097230": {
+      "name": "Turnip Boy Robs a Bank",
+      "priority": 0,
+      "date_added": 1795870253
     }
   },
   "reviews": {
@@ -876,6 +881,13 @@
         "date": "2026-11-27",
         "pct": 94,
         "count": 2723,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": 94,
+        "count": 2888,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -964,6 +976,13 @@
         "count": 8956,
         "label": "Overwhelmingly Positive",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": 97,
+        "count": 9252,
+        "label": "Overwhelmingly Positive",
+        "scope": "all"
       }
     ],
     "3991790": [
@@ -1048,6 +1067,13 @@
         "date": "2026-11-27",
         "pct": 100,
         "count": 27,
+        "label": "Positive",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": 100,
+        "count": 46,
         "label": "Positive",
         "scope": "all"
       }
@@ -1136,6 +1162,13 @@
         "count": 100,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": 92,
+        "count": 95,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "3156770": [
@@ -1220,6 +1253,13 @@
         "date": "2026-11-27",
         "pct": 95,
         "count": 298,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": 95,
+        "count": 307,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
       }
@@ -1308,6 +1348,13 @@
         "count": 94,
         "label": "Very Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": 84,
+        "count": 93,
+        "label": "Very Positive",
+        "scope": "recent"
       }
     ],
     "3088700": [
@@ -1392,6 +1439,13 @@
         "date": "2026-11-27",
         "pct": 94,
         "count": 110,
+        "label": "Very Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": 94,
+        "count": 109,
         "label": "Very Positive",
         "scope": "recent"
       }
@@ -1480,6 +1534,13 @@
         "count": 360,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": 98,
+        "count": 377,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "4113940": [
@@ -1564,6 +1625,13 @@
         "date": "2026-11-27",
         "pct": 96,
         "count": 890,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": 97,
+        "count": 958,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
       }
@@ -1652,6 +1720,13 @@
         "count": 181,
         "label": "Overwhelmingly Positive",
         "scope": "recent"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": 96,
+        "count": 192,
+        "label": "Overwhelmingly Positive",
+        "scope": "recent"
       }
     ],
     "2640090": [
@@ -1734,6 +1809,13 @@
       },
       {
         "date": "2026-11-27",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1824,6 +1906,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2769570": [
@@ -1906,6 +1995,13 @@
       },
       {
         "date": "2026-11-27",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -1996,6 +2092,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2210150": [
@@ -2078,6 +2181,13 @@
       },
       {
         "date": "2026-11-27",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -2168,6 +2278,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2487330": [
@@ -2250,6 +2367,13 @@
       },
       {
         "date": "2026-11-27",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -2340,6 +2464,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "2156800": [
@@ -2426,6 +2557,13 @@
         "count": null,
         "label": "No user reviews",
         "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
       }
     ],
     "3484950": [
@@ -2452,6 +2590,13 @@
       },
       {
         "date": "2026-11-27",
+        "pct": null,
+        "count": null,
+        "label": "No user reviews",
+        "scope": "all"
+      },
+      {
+        "date": "2026-11-28",
         "pct": null,
         "count": null,
         "label": "No user reviews",
@@ -3200,6 +3345,7 @@
     "1810503566544454",
     "1810503566560241",
     "1810503566585919",
+    "1811138915435404",
     "1811138915527433",
     "1811138915562291",
     "1811772772211837",
@@ -3242,6 +3388,7 @@
     "1815580768399858",
     "1815580768426493",
     "1816215235359785",
+    "1816307528923384",
     "1816307528965676",
     "1816307528966705",
     "1816307528974629",
@@ -3447,6 +3594,7 @@
     "1834602721183323",
     "1834602721183868",
     "1834602721188021",
+    "1834602721188207",
     "1834602721188262",
     "1834602721189703",
     "1834602721192159",
@@ -4210,15 +4358,19 @@
     "1850460852989899",
     "1850460852989932",
     "1850460852990205",
+    "1850460852991195",
     "2436926440577560177",
     "5059268543351284637",
     "5129083846350964831",
     "5133583642669926358",
     "5219165352628775130",
+    "5220292521195829914",
     "5480373588784262090",
     "5480373588784845291",
     "5480373588797442342",
     "5510784213097806251",
+    "5510784213098175544",
+    "5510784213098213695",
     "5582843074941092462",
     "5679673637667409524",
     "5686430301731767284",
@@ -4233,11 +4385,14 @@
     "5747236506606399557",
     "5749481331442379881",
     "5756237364309262840",
+    "5756237364326475300",
+    "5768625435414694754",
     "5842939267309630686",
     "5875595438687121252",
     "5963414363391503963",
     "5963414363405755223",
     "5963414363405780887",
+    "5969041959961964751",
     "5969041959964922900",
     "6000566704279794945",
     "6000566704280778796",
@@ -4247,6 +4402,7 @@
     "6211118320231703972",
     "6212244583188362791",
     "6212245217911851931",
+    "6240387642460144405",
     "6242640076597653748",
     "6339469370180941360",
     "6339469370186675279",
